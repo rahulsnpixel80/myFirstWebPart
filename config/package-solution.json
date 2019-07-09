@@ -10,12 +10,5 @@
   },
   "paths": {
     "zippedPackage": "solution/my-first-web-part.sppkg"
-  },
-  "webApiPermissionRequests": [
-    {
-      "resource": "Windows Azure Active Directory",
-     "scope": "User.Read"
-    }
-   
-   ]
+  }
 }
