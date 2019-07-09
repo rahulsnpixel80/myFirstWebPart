@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pixel80ison/myFirstWebPart/_apis/build/status/myFirstWebPart-CI?branchName=master)](https://dev.azure.com/pixel80ison/myFirstWebPart/_build/latest?definitionId=5&branchName=master)
 ## my-first-web-part
 
 This is where you include your WebPart documentation.
